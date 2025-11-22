@@ -21,7 +21,6 @@ Más de **7 años de experiencia**, **+19.000 huéspedes satisfechos al año** y
 ### Contacto / NAP
 
 **GestionLugo – Gestión de Alquileres Turísticos**  
-Rúa da Raiña, 1 – Oficina 3  
 27001 Lugo (Galicia)  
 
 **Teléfono / WhatsApp:** <a href="tel:+34621325338">+34 621 32 53 38</a>  
@@ -32,3 +31,4 @@ Rúa da Raiña, 1 – Oficina 3
 
 
 **MasterGuest Lugo** – Tu tranquilidad, nuestro compromiso.
+
